@@ -1,4 +1,7 @@
 # Stock Data Analysis Project
+## Dashboard Preview
+
+![Dashboard](dashboard_preview.jpeg)
 
 This project was completed as part of my Data Analysis Internship.
 
